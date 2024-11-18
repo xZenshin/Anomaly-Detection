@@ -11,3 +11,10 @@ Define other possible choices to define an anomaly, based on your literature sea
 Optional
 How can you tend to all classes of the dataset at once
 Use a method to explain why an image was classified as anomalous depending on your model of choice, e.g. attention maps, Grad-CAM.
+
+
+What has been done:
+Train your own (variational) autoencoder model to reconstruct one object class. Which class did you choose? How did you define your model?
+Classify images with higher reconstruction errors as an anomaly. Investigate your results based on different thresholds. Perform a visual inspection of selected examples.
+Use at least one other model. You are free to choose a pre-trained model.
+Does one model perform clearly better? No sadly not (swap out conv for VAE)
