@@ -1,0 +1,13 @@
+notes
+
+Regula
+
+Change loss function (SSIM) (Inception)
+
+Do VAE
+
+Maybe some prepocess blur
+
+Check the variance for the input and output
+
+Wandb
