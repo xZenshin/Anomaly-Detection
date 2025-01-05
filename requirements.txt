@@ -5,4 +5,5 @@ psutil==6.1.0
 scipy==1.14.1
 torch==2.5.0
 torchvision==0.20.0
-tqdm==2.2.3
+tqdm==4.66.3
+transformers==4.45.2
